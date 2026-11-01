@@ -112,4 +112,3 @@ The app opens on **http://localhost:3000**. The frontend calls the API at `http:
 
 Base URL: `http://localhost:8080`
 
-d` | Add-course form for instructors |
